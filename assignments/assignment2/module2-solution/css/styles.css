@@ -32,7 +32,6 @@ h3.section-title {
     right: -2px;
     top: -2px;
 }
-
 @media (min-width: 768px) and (max-width: 991px) {
     div.section:nth-child(1), div.section:nth-child(2) {
         width: 49%
